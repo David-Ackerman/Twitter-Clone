@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 <h1 align="center">
   <br>
-  YOUR_PROJECT_NAME
+  Twitter Clone
 </h1>
 
 <p align="center">Clone application of Twitter UI</p>
